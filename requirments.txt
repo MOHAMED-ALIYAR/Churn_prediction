@@ -5,3 +5,4 @@ tensorflow==2.4.0
 streamlit==1.22.0
 tensorflow==2.11.0
 tensor-flow
+tensor_flow

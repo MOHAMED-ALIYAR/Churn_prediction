@@ -51,7 +51,7 @@ if button:
     a=(np.array([[Cedit_score,Geography,Gender,Age,Tenure,Balance,Number_product,Card,Member,Salary]]).reshape(1,-1))
 
     b=model.predict(a)
-    if b>0.5:
+    if b<0.5:
         st.markdown("<h1 style='text-align: center; color: black;'>EXIT </h1>", unsafe_allow_html=True)
     else:
         st.markdown("<h1 style='text-align: center; color: black;'>NOT EXIT</h1>", unsafe_allow_html=True)

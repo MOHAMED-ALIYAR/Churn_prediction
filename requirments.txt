@@ -1,4 +1,3 @@
-pip install tensorflow
 pandas==1.3.4
 numpy==1.21.4
 tensorflow-intel

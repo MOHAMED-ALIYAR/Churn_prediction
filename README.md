@@ -1,3 +1,3 @@
 # Churn_prediction
 
-Weblink: https://d3pycdhrykztaqrys8btam.streamlit.app/
+Weblink: https://8gnxpzvcdsnyrhbxvemuy4.streamlit.app/

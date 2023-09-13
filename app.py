@@ -9,7 +9,7 @@ st.markdown("<h1 style='text-align: center; color: black;'>CHURN PREDICTION </h1
 
 #load the pickle file
 
-scale = pickle.load(open('scale.pkl','rb'))
+#scale = pickle.load(open('scale.pkl','rb'))
 model=tf.keras.models.load_model('keras2')
 
 
